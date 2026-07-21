@@ -23,7 +23,7 @@ repository               : "ChangYu3/ChangYu3.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : 
   name             : "Chang Yu"
   pronouns         : # example: "he/him"  
   bio              : "Master's Student"
